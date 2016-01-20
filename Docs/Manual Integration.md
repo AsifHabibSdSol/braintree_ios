@@ -1,4 +1,4 @@
-Manual Integration Without CocoaPods
+Manual Integration Without CocoaPods (These Instruction are usable for only V3 not V4)
 ------------------------------------
 
 Please follow these instructions to integrate Braintree iOS into your app without CocoaPods.
